@@ -33,7 +33,7 @@
       cd Projects
       ```  
 5. Склонируйте репозиторий, выполнив команду   
-`git clone https://github.com/bevzuk/technical-excellence-101.git`
+`git clone https://github.com/skrivenko/engineering-practices-101.git`
 6. Откройте локальный репозиторий в VS Code
     * Запустите VS Code
     * Откройте папку Projects/technical-excellence-101
