@@ -1,3 +1,8 @@
 {
-    "github.gitAuthentication": false
+    "github.gitAuthentication": false,
+    "python.testing.pytestArgs": [
+        "Unit 4. Autotests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
