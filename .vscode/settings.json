@@ -1,7 +1,8 @@
 {
     "github.gitAuthentication": false,
     "python.testing.pytestArgs": [
-        "Unit 4. Autotests"
+        "Unit 4. Autotests",
+        "Unit 5. CI CD",
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
