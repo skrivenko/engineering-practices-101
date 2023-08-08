@@ -20,5 +20,5 @@ def text(change_test_dir):
 def test_has_header(text):
     assert '<h1>Сказка про колобка</h1>' in text
 
-def test_has_header_wolf(html):
-    assert '<h3>3.2 Волк</h3>' in  html
+def test_has_header_wolf(text):
+    assert '<h3>3.2 Волк</h3>' in  text
